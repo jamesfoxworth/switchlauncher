@@ -1,5 +1,4 @@
-main.o: C:/Users/foxwo/Documents/switch/project/source/main.cpp \
- C:/Users/foxwo/Documents/switch/project/include/util.h \
+app.o: C:/Users/foxwo/Documents/switch/project/source/app.cpp \
  C:/Users/foxwo/Documents/switch/project/include/app.h \
  C:/devkitPro/libnx/include/switch.h \
  C:/devkitPro/libnx/include/switch/types.h \
@@ -173,7 +172,6 @@ main.o: C:/Users/foxwo/Documents/switch/project/source/main.cpp \
  C:/devkitPro/libnx/include/switch/crypto/sha1.h \
  C:/devkitPro/libnx/include/switch/crypto/hmac.h \
  C:/devkitPro/libnx/include/switch/crypto/crc.h
-C:/Users/foxwo/Documents/switch/project/include/util.h:
 C:/Users/foxwo/Documents/switch/project/include/app.h:
 C:/devkitPro/libnx/include/switch.h:
 C:/devkitPro/libnx/include/switch/types.h:

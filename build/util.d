@@ -1,4 +1,4 @@
-main.o: C:/Users/foxwo/Documents/switch/project/source/main.cpp \
+util.o: C:/Users/foxwo/Documents/switch/project/source/util.cpp \
  C:/Users/foxwo/Documents/switch/project/include/util.h \
  C:/Users/foxwo/Documents/switch/project/include/app.h \
  C:/devkitPro/libnx/include/switch.h \
